@@ -6,6 +6,9 @@
 - 💬 Ask me about full stack development, cyber security, linux, and technical writing
 - 📫 How to reach me: discord or telegram (abdorithm)
 - 😄 Pronouns: arch/linux
-- ⚡ Fun fact: I'm a web security enthusiast
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdorithm)](Stats)
+<div align="center">
+  <a href="Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdorithm&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  </a>
+</div>
