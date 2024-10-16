@@ -1,13 +1,11 @@
 # Hi there 👋
 
-<!--
-- 🔭 I’m currently working on a full stack app
-- 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on penetration testing
-- 💬 Ask me about full stack development, cyber security, and technical writing
-- 📫 How to reach me: Contact me at my email address, discord ,or telegram (abdorithm)
-- 😄 Pronouns: Arch/Linux
-- ⚡ Fun fact: I use Arch Linux
--->
+- 🔭 I’m currently working on a full stack web app
+- 🌱 I’m currently learning ruby on rails
+- 👯 I’m looking to collaborate on cyber security projects
+- 💬 Ask me about full stack development, cyber security, linux, and technical writing
+- 📫 How to reach me: discord or telegram (abdorithm)
+- 😄 Pronouns: arch/linux
+- ⚡ Fun fact: I'm a web security enthusiast
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdorithm)](Stats)
