@@ -1,11 +1,10 @@
-# Hi there 👋
+# Hi there 🎉
 
-- 🔭 I’m currently working on a full stack web app
-- 🌱 I’m currently learning ruby on rails
-- 👯 I’m looking to collaborate on cyber security projects
-- 💬 Ask me about full stack development, cyber security, linux, and technical writing
-- 📫 How to reach me: discord or telegram (abdorithm)
-- 😄 Pronouns: arch/linux
+- 💎 currently learning ruby on rails 💎
+- 🎙️ ask me about full stack development, cyber security, linux, and technical writing 🎙️
+- 📟 how to reach me: discord or telegram (abdorithm) 📟
+- 💻 pronouns: arch/linux 💻
+- ⚡ [check out my dotfiles](https://github.com/Abdorithm/dotfiles) ⚡
 
 <div align="center">
   <a href="Stats">
