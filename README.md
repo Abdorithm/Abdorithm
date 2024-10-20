@@ -2,8 +2,7 @@
 
 - 💎 currently learning ruby on rails 💎
 - 🎙️ ask me about full stack development, cyber security, linux, and technical writing 🎙️
-- 📟 how to reach me: discord or telegram (abdorithm) 📟
-- 💻 pronouns: arch/linux 💻
+- 📟 how to reach me: X or discord (abdorithm) 📟
 - ⚡ [check out my dotfiles](https://github.com/Abdorithm/dotfiles) ⚡
 
 <div align="center">
